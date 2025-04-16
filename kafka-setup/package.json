@@ -1,0 +1,12 @@
+{
+  "name": "kafka-setup",
+  "version": "1.0.0",
+  "description": "Kafka Topic Setup for Health Insurance System",
+  "main": "setup.js",
+  "scripts": {
+    "start": "node setup.js"
+  },
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
